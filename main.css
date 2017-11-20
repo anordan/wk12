@@ -1,0 +1,50 @@
+*, *:after, *:before {
+	box-sizing: border-box;
+}
+
+section.changeButtons {
+	font-family: 'Roboto', sans-serif;
+	height: 80%;
+	position: absolute;
+	left: 3em;
+	top: 10%;
+	text-align: center;
+}
+
+ul {
+	list-style-type: none;
+}
+.changeButtons li {
+	margin-bottom: 2em;
+	border: 1px solid #b0dff2;
+	background-color: #edf8fc;
+	padding: 1em 2em;
+	
+	
+}
+
+
+ h1, h2, h3, h4, li {
+	font-family: 'Roboto', sans-serif;
+}
+
+.copy {
+	margin-left: 20%;
+}
+
+#page1, #page2, #page3, #page4, #page5, #page6, #page7 {
+	margin-bottom: 30em;
+}
+
+.buttons {
+	font-family: 'Roboto', sans-serif;
+	font-size: 1em;
+	color: #000;
+	
+}
+
+.buttons a {
+	color: #000;
+	text-decoration: none;
+
+}
